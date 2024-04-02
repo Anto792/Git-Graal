@@ -1,0 +1,84 @@
+[33mcommit 9980f9d73b3237d74534709f88c2086c9213fa57[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Anto792 <antonind2002@gmail.com>
+Date:   Tue Apr 2 16:57:28 2024 +0200
+
+    Black knight dead
+
+[33mcommit ce487eec1b86a2d0c8486b006219cd364f5e8b10[m
+Author: Anto792 <antonind2002@gmail.com>
+Date:   Tue Apr 2 16:56:20 2024 +0200
+
+    Fight : -4 me and EQUIPEMENT : épée longue
+
+[33mcommit 2d196165b72e47db79eb4544353905747328d088[m
+Author: Anto792 <antonind2002@gmail.com>
+Date:   Tue Apr 2 16:55:04 2024 +0200
+
+    Fight : -2 me
+
+[33mcommit 9ed8f4c3830a15aab289c71fd25c209e7eec606b[m
+Author: Anto792 <antonind2002@gmail.com>
+Date:   Tue Apr 2 16:53:56 2024 +0200
+
+    Start fight -6 black night -3 me
+
+[33mcommit 5617fa8ecc23e53d0b4d40e7f1547f08fd6748fa[m
+Author: Anto792 <antonind2002@gmail.com>
+Date:   Tue Apr 2 16:38:15 2024 +0200
+
+    LIEU : pont levis
+    EQUIPEMENT :baguette
+
+[33mcommit 58d974854f316983cc1cc095b9f828ed03eb3402[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Aurélien Bénel <aurelien.benel@utt.fr>
+Date:   Thu Feb 22 15:19:33 2024 +0100
+
+    DOC: Les indices sont désormais escamotables.
+
+[33mcommit 5be4bab0aeaf87d57d98fa3ca8621c52dd8f31ab[m
+Author: Aurélien Bénel <aurelien.benel@utt.fr>
+Date:   Tue Mar 21 09:56:21 2023 +0100
+
+    DOC: Mise à jour des dates de révision du document.
+
+[33mcommit 42ec4745bbaa4b50b6c8d41638322176013d3cea[m
+Author: Aurélien Bénel <aurelien.benel@utt.fr>
+Date:   Tue Mar 21 09:54:40 2023 +0100
+
+    DOC: Atom, qui est en fin de vie, ne doit plus être nécessaire.
+
+[33mcommit 8cc56fd4f4f882e5a42d3623e9b46e4aacfc417e[m
+Author: Aurelien Benel <aurelien.benel@utt.fr>
+Date:   Mon Mar 21 17:21:21 2022 +0100
+
+    DOC: Utilisation d'ungit pour visualiser l'effet de ses actions.
+
+[33mcommit 007a078a941b32a3a698ba2a32c480799407fe9d[m
+Author: Aurelien Benel <aurelien.benel@utt.fr>
+Date:   Fri Mar 27 15:59:56 2020 +0100
+
+    DOC: Conseils à un click de distance.
+
+[33mcommit 1e3b9959e225210b94f71e7d5dcb5662f899e9bf[m
+Author: Aurelien Benel <aurelien.benel@utt.fr>
+Date:   Fri Mar 27 14:33:21 2020 +0100
+
+    DOC: Accès aux conseils plus intuitif.
+
+[33mcommit 6c6f74c30ca0f99181828e896366197a0d3dc316[m
+Author: Aurelien Benel <aurelien.benel@utt.fr>
+Date:   Wed Mar 25 20:26:56 2020 +0100
+
+    DOC: Conseils sous forme de copies d'écran ou de vidéos.
+
+[33mcommit 2a651e074a33ef74e18ace0f041edf14e4ddab25[m
+Author: Aurelien Benel <aurelien.benel@utt.fr>
+Date:   Fri Mar 20 21:15:40 2020 +0100
+
+    DOC: Schématisation des formules druidiques.
+
+[33mcommit 114245eac7fe6d2094d7295cf8b42ac01d8a6a68[m
+Author: Aurelien Benel <aurelien.benel@utt.fr>
+Date:   Sat Mar 10 16:38:24 2018 +0100
+
+    DOC: L'introduction à Git dont vous êtes le héros.
